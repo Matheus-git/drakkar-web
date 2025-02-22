@@ -16,6 +16,10 @@ The single-page website includes:
 - **Major accomplishments**: A list of the team's victories and milestones.
 - **Contact form**: For fans to reach out to the team.
 
+## Screenshot
+
+![Print of the website](assets/printscreen.png)
+
 ## Contributing
 
 Feel free to contribute improvements, suggestions, or fixes by opening a **pull request** or creating an **issue**.
