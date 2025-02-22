@@ -2,7 +2,7 @@
 
 This is a simple project built using HTML and TailwindCSS, featuring a single-page website about the fictional football team "Dragões do Ébano FC." The story and content of the team were created with the help of DeepSeek, an AI-powered tool that generated an engaging narrative about the club.
 
-This project was developed in just a few hours as part of a training exercise over the weekend.
+**This project was developed in just a few hours as part of a training exercise over the weekend.**
 
 ## Technologies Used
 
